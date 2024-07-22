@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <span class="close-button">&times;</span>
             <h2>Download Duck Client</h2>
             <p>Thank you for choosing Duck Client! Click the button below to start your download.</p>
-            <a href="Duck Client V1.1.0.zip" class="download-link">Download Now</a>
+            <a href="Duck Client V1.1.0.zip" class="Duck Client V1.1.0.zip">Download Now</a>
         </div>
     `;
     document.body.appendChild(modal);
